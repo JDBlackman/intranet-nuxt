@@ -1,0 +1,32 @@
+{
+  "locale": "cy",
+  "navbar": {
+    "title": "Canolfan y Coleg Gwyddoniaeth",
+    "dashboard": "Dangosfwrdd",
+    "timetable": "Amserlen",
+    "coursework": "Gwaith Cwrs",
+    "directory": "Cyfeiriadur",
+    "language": "Laith",
+    "logout": "Arwyddwch"
+  },
+  "dashboard":{
+    "upcoming": "Gwaith Cwrs sydd ar ddod",
+    "timetable": "Amserlen",
+    "weekbeginning": "Wythnos yn Dechrau"
+  },
+  "timetable":{
+    "lectures": "Darlithoedd",
+    "practical": "Ymarferol (Lab PC)",
+    "workshops": "Gweithdai",
+    "support": "Dosbarthiadau Cefnogi"
+  },
+  "coursework":{
+    "upcoming": "Gwaith Cwrs sydd ar ddod",
+    "past": "Gwaith Cwrs yn y gorffennol",
+    "lastupdated": "Diweddarwyd Diwethaf"
+  },
+  "directory":{
+    "staffdirectory": "Cyfeiriadur Staff",
+    "search": "Chwilio am Staff"
+  }
+}

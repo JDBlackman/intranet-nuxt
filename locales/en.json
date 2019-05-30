@@ -1,0 +1,32 @@
+{
+  "locale": "en-gb",
+  "navbar": {
+    "title": "College of Science Hub",
+    "dashboard": "Dashboard",
+    "timetable": "Timetable",
+    "coursework": "Coursework",
+    "directory": "Directory",
+    "language": "Language",
+    "logout": "Sign Out"
+  },
+  "dashboard":{
+    "upcoming": "Upcoming Coursework",
+    "timetable": "Timetable",
+    "weekbeginning": "Week Beginning"
+  },
+  "timetable":{
+    "lectures": "Lectures",
+    "practical": "Practical (PC Lab)",
+    "workshops": "Workshops",
+    "support": "Support Classes"
+  },
+  "coursework":{
+    "upcoming": "Upcoming Coursework",
+    "past": "Past Coursework",
+    "lastupdated": "Last Updated"
+  },
+  "directory":{
+    "staffdirectory": "Staff Directory",
+    "search": "Search for Staff"
+  }
+}
