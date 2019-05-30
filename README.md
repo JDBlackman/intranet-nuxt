@@ -1,6 +1,6 @@
 # Intranet-Nuxt
 
-> My world-class Nuxt.js project
+> Frontend for Intranet Laravel
 
 ## Build Setup
 
